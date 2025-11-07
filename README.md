@@ -12,7 +12,7 @@ Create a database name 'TP' with a table name 'doctor' : like this structure
 # DOCTOR TABLE
 ------------------------------------------------------------------------------------------
 | Field      | Type                              | Null | Key | Default | Extra          |
-------------------------------------------------------------------------------------------
+-------------|-----------------------------------|------|-----|---------|----------------|
 | id         | int(11)                           | NO   | PRI | NULL    | auto_increment |
 | name       | varchar(255)                      | NO   |     | NULL    |                |
 | email      | varchar(255)                      | NO   | UNI | NULL    |                |
